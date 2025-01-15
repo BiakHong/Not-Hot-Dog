@@ -75,7 +75,7 @@ function predictWebcam() {
         });
 
         // Update status
-        statusElement.textContent = isHotDog ? "🌭 Hot Dog Detected!" : "Not a Hot Dog";
+        statusElement.textContent = isHotDog ? "🌭 Hot Dog!" : "Not a Hot Dog";
 
         // Call predictWebcam again
         requestAnimationFrame(predictWebcam);
