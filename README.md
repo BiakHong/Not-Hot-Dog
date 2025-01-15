@@ -43,12 +43,12 @@ hot-dog-or-not/ ├── index.html # Main HTML file ├── styles.css # CSS
 ---
 
 ## 📸 Screenshots!
-### Hot Dog Detected
+### Not a Hot Dog 
 ![not hotdog1](https://github.com/user-attachments/assets/dc38b96c-c5b8-4427-b830-25399412dccb)
 ![nothotdog2](https://github.com/user-attachments/assets/d3a70d08-9640-4153-9391-0cff8b1cc20c)
 
 
-### Not a Hot Dog
+### Hot Dog
 [HotDogs](https://github.com/user-attachments/assets/bf42fcd2-5d35-4405-a497-bf9dccd03e61)
 
 
