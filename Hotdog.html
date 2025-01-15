@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hot Dog Detector</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>🌭 Hot Dog or Not? 🌭</h1>
+    </header>
+    <main>
+        <div id="video-container">
+            <video id="webcam" autoplay></video>
+            <canvas id="overlay"></canvas>
+        </div>
+        <div id="status-container">
+            <h2 id="status">Loading model...</h2>
+        </div>
+    </main>
+    <footer>
+        <p>Inspired by Silicon Valley </p>
+    </footer>
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow-models/coco-ssd"></script>
+    <script src="script.js"></script>
+</body>
+</html>
