@@ -49,7 +49,7 @@ hot-dog-or-not/ ├── index.html # Main HTML file ├── styles.css # CSS
 
 
 ### Hot Dog
-[HotDogs](https://github.com/user-attachments/assets/bf42fcd2-5d35-4405-a497-bf9dccd03e61)
+![HotDogs](https://github.com/user-attachments/assets/764bfe46-41ac-4a36-9112-2b1aaff196b4)
 
 
 ---
